@@ -9,6 +9,7 @@
 
 * [Python-100-Days](https://github.com/jackfrued/Python-100-Days) 100天从python基础到大师
 * [Python Cookbook 3rd Edition Documentation中文](https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)
+* [Python最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
 
 ## IDE或者插件
 
