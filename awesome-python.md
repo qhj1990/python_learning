@@ -11,6 +11,7 @@
 * [Python Cookbook 3rd Edition Documentation中文](https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)
 * [Python最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
 * [Think Python 2e](https://codingpy.com/books/thinkpython2)
+* [深入python3](https://dipyzh.bitbucket.io/whats-new.html)
 
 ## IDE或者插件
 
@@ -36,13 +37,13 @@
 
 #### pandas
 
-* [pandas官网](https://pandas.pydata.org/) 
+* [pandas官网](https://pandas.pydata.org/)
 * [pandas github](https://github.com/pandas-dev/pandas)
 * [pandas中文网](https://www.pypandas.cn/)
 
 #### NumPy
 
-* [NumPy]() Python 进行科学计算的基础包
+* [NumPy github](https://github.com/numpy/numpy) Python 进行科学计算的基础包
 * [NumPy doc](https://docs.scipy.org/doc/numpy/)
 * [NumPy中文网](https://www.numpy.org.cn/)
 
@@ -64,5 +65,5 @@
 
 * Scrapy[官网](https://scrapy.org/) [github](https://github.com/scrapy/scrapy)
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) [中文文档](https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/)HTML和XML文件中提取数据
-* [pyspider](https://github.com/binux/pyspider)、[]()
+* [pyspider](https://github.com/binux/pyspider)
 * [selenium](https://selenium.dev/selenium/docs/api/py/)
