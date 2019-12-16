@@ -49,7 +49,8 @@
 
 ### 数据库驱动
 
-* []()
+* [mysql-connector-python](https://dev.mysql.com/doc/connector-python/en/) mysql官方python驱动
+* [pyMySQL](https://github.com/PyMySQL/PyMySQL)
 
 ### 数据库ORM
 
