@@ -1,5 +1,7 @@
 # Selenium
 
+自动化浏览器，用于自动化测试
+
 ## 资源
 
 * [官网](https://selenium.dev/)
